@@ -1,0 +1,43 @@
+/* CSS Document */
+
+body { background:url(../images/coat%20of%20arms.jpg) no-repeat;
+	   background-position:50%;
+}
+
+#header { padding:50px;
+	   	  background-color:#0C6;
+		  text-align:center;
+		  width:100%;
+		  margin:0;
+}
+
+table#header { border-bottom:solid 1px  #CCFF00;
+		margin:0;
+		padding:0;
+		width:100%;
+}
+
+table#about{ border:#CCC solid 1px;
+}
+
+#about tr.green{background-color:#0C6;}
+
+#about td{padding:10px;}
+
+#header tr { text-align:center;
+     vertical-align:middle;}
+
+td img{ width:200px;
+		height:150px;
+		margin:10px;
+		margin-left:50px;
+}
+
+#footer { padding:25px;
+		  background-color: #333;
+		  text-align:center;
+		  bottom:0px;
+		  width:100%;
+		  border-top: solid 1px  #CCFF00;
+		  color:#CCC;
+}
